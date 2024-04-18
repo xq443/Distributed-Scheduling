@@ -10,9 +10,6 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by wolfcode-lanxw
- */
 @Component
 public class FileCustomElasticJob implements SimpleJob {
     @Autowired
