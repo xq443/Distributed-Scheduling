@@ -2,9 +2,6 @@ package cn.wolfcode.domain;
 
 import lombok.Data;
 
-/**
- * Created by wolfcode-lanxw
- */
 @Data
 public class FileCustom {
     //唯一标识
