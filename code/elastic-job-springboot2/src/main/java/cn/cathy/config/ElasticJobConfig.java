@@ -1,8 +1,8 @@
-package cn.wolfcode.config;
+package cn.cathy.config;
 
-import cn.wolfcode.job.FileCustomElasticJob;
-import cn.wolfcode.job.FileDataflowJob;
-import cn.wolfcode.job.MyElasticJob;
+import cn.cathy.job.FileCustomElasticJob;
+import cn.cathy.job.FileDataflowJob;
+import cn.cathy.job.MyElasticJob;
 import com.dangdang.ddframe.job.api.ElasticJob;
 import com.dangdang.ddframe.job.api.simple.SimpleJob;
 import com.dangdang.ddframe.job.config.JobCoreConfiguration;
@@ -21,9 +21,6 @@ import org.springframework.util.StringUtils;
 
 import javax.sql.DataSource;
 
-/**
- * Created by wolfcode-lanxw
- */
 @Configuration
 public class ElasticJobConfig {
     @Autowired

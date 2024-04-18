@@ -1,4 +1,4 @@
-package cn.wolfcode.config;
+package cn.cathy.config;
 
 import com.dangdang.ddframe.job.reg.base.CoordinatorRegistryCenter;
 import com.dangdang.ddframe.job.reg.zookeeper.ZookeeperConfiguration;
@@ -7,9 +7,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * Created by wolfcode-lanxw
- */
 @Configuration
 public class RegistryCenterConfig {
     @Bean(initMethod = "init")

@@ -1,7 +1,7 @@
-package cn.wolfcode.job;
+package cn.cathy.job;
 
-import cn.wolfcode.domain.FileCustom;
-import cn.wolfcode.mapper.FileCustomMapper;
+import cn.cathy.domain.FileCustom;
+import cn.cathy.mapper.FileCustomMapper;
 import com.dangdang.ddframe.job.api.ShardingContext;
 import com.dangdang.ddframe.job.api.dataflow.DataflowJob;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,9 +11,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by wolfcode-lanxw
- */
 @Component
 public class FileDataflowJob implements DataflowJob<FileCustom> {
     @Autowired

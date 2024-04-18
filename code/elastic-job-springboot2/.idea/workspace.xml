@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="481a8ef0-c62d-4d99-b070-e2dcc05226ac" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="481a8ef0-c62d-4d99-b070-e2dcc05226ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/ElasticJobServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/ElasticJobServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/config/ElasticJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/config/ElasticJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/config/RegistryCenterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/config/RegistryCenterConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/domain/FileCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/domain/FileCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/job/FileCustomElasticJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/job/FileCustomElasticJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/job/FileDataflowJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/job/FileDataflowJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cathy/job/MyElasticJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cathy/job/MyElasticJob.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,44 +21,6 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="AUTO_SHOW_ERRORS_IN_EDITOR" value="false" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="270669180">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="38" />
-          <entry key="xml" value="2" />
-          <entry key="yml" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="38" />
-          <entry key="XML" value="2" />
-          <entry key="YAML" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1462" />
-          <entry key="xml" value="2" />
-          <entry key="yml" value="120" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1462" />
-          <entry key="XML" value="2" />
-          <entry key="YAML" value="120" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -96,6 +67,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/cn/wolfcode/job/FileDataflowJob.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/cn/wolfcode/job/FileCustomElasticJob.java" root0="SKIP_INSPECTION" />
@@ -133,7 +107,6 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="downloadSourcesAutomatically" value="true" />
-        <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -147,6 +120,7 @@
     <option name="width" value="1376" />
     <option name="height" value="760" />
   </component>
+  <component name="ProjectId" id="2fGNh2sVSOLGw4NrTTDRIEy8fgF" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -403,39 +377,31 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588908320544" />
-    <property name="last_opened_file_path" value="D:/testDir/gitlab" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.mvnsearch.intellij.plugin.zookeeper.ui.ZkProjectConfigurable" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/cathyqin/Desktop/projects/distributed scheduling/code/elastic-job-springboot2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.wolfcode.job" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ElasticJobServer3">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -451,6 +417,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -458,15 +425,14 @@
     </configuration>
     <configuration name="ElasticJobServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="elastic-job-springboot2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wolfcode.ElasticJobServer" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8080" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.wolfcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wolfcode.ElasticJobServer" />
-      <option name="VM_PARAMETERS" value="-Dserver.port=8080" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -475,7 +441,6 @@
       <module name="elastic-job-springboot2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wolfcode.ElasticJobServer" />
       <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -484,12 +449,12 @@
       <module name="elastic-job-springboot2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.wolfcode.ElasticJobServer" />
       <option name="VM_PARAMETERS" value="-Dserver.port=8083" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -508,6 +473,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -519,6 +485,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588838393198</updated>
       <workItem from="1588838394471" duration="13079000" />
+      <workItem from="1713423571205" duration="409000" />
     </task>
     <servers />
   </component>
@@ -608,10 +575,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="ZooKeeperConfig">
     <option name="host" value="127.0.0.1" />

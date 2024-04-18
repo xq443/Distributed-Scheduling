@@ -1,4 +1,4 @@
-package cn.wolfcode.domain;
+package cn.cathy.domain;
 
 import lombok.Data;
 
